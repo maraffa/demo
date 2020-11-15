@@ -1,6 +1,6 @@
 # hello-world
 
-##I'm learning git
+## I'm learning git
 
 Hi everybody,
 this is a demo project to learn how git works. 
